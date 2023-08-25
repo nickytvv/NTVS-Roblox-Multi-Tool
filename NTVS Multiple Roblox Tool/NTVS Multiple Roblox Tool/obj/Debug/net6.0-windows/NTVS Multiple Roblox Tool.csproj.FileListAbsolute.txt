@@ -1,0 +1,29 @@
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\bin\Debug\net6.0-windows\NTVS Multiple Roblox Tool.exe
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\bin\Debug\net6.0-windows\NTVS Multiple Roblox Tool.deps.json
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\bin\Debug\net6.0-windows\NTVS Multiple Roblox Tool.runtimeconfig.json
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\bin\Debug\net6.0-windows\NTVS Multiple Roblox Tool.dll
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\bin\Debug\net6.0-windows\NTVS Multiple Roblox Tool.pdb
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\obj\Debug\net6.0-windows\NTVS_Multiple_Roblox_Tool.Form1.resources
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\obj\Debug\net6.0-windows\NTVS Multiple Roblox Tool.csproj.GenerateResource.cache
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\obj\Debug\net6.0-windows\NTVS Multiple Roblox Tool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\obj\Debug\net6.0-windows\NTVS Multiple Roblox Tool.AssemblyInfoInputs.cache
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\obj\Debug\net6.0-windows\NTVS Multiple Roblox Tool.AssemblyInfo.cs
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\obj\Debug\net6.0-windows\NTVS Multiple Roblox Tool.csproj.CoreCompileInputs.cache
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\obj\Debug\net6.0-windows\NTVS Multiple Roblox Tool.dll
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\obj\Debug\net6.0-windows\refint\NTVS Multiple Roblox Tool.dll
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\obj\Debug\net6.0-windows\NTVS Multiple Roblox Tool.pdb
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\obj\Debug\net6.0-windows\NTVS Multiple Roblox Tool.genruntimeconfig.cache
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\obj\Debug\net6.0-windows\ref\NTVS Multiple Roblox Tool.dll
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\bin\Debug\net6.0-windows\ReaLTaiizor.dll
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\obj\Debug\net6.0-windows\NTVS Multiple Roblox Tool.csproj.AssemblyReference.cache
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\obj\Debug\net6.0-windows\NTVS Multiple Roblox Tool.csproj.CopyComplete
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\obj\Debug\net6.0-windows\NTVS_Multiple_Roblox_Tool.SaveCookie.resources
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\bin\Debug\net6.0-windows\WebDriver.Support.dll
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\obj\Debug\net6.0-windows\NTVS_Multiple_Roblox_Tool.AccountManager.resources
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\bin\Debug\net6.0-windows\SeleniumExtras.WaitHelpers.dll
+C:\Users\nsanc\source\repos\NTVS Multiple Roblox Tool\NTVS Multiple Roblox Tool\bin\Debug\net6.0-windows\HtmlAgilityPack.dll
