@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nsanc\\source\\repos\\NTVS Multiple Roblox Tool\\NTVS Multiple Roblox Tool\\NTVS Multiple Roblox Tool.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nsanc\\source\\repos\\NTVS Multiple Roblox Tool\\NTVS Multiple Roblox Tool\\NTVS Multiple Roblox Tool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nsanc\\source\\repos\\NTVS Multiple Roblox Tool\\NTVS Multiple Roblox Tool\\NTVS Multiple Roblox Tool.csproj",
+        "projectName": "NTVS Multiple Roblox Tool",
+        "projectPath": "C:\\Users\\nsanc\\source\\repos\\NTVS Multiple Roblox Tool\\NTVS Multiple Roblox Tool\\NTVS Multiple Roblox Tool.csproj",
+        "packagesPath": "C:\\Users\\nsanc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nsanc\\source\\repos\\NTVS Multiple Roblox Tool\\NTVS Multiple Roblox Tool\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nsanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.52, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "ReaLTaiizor": {
+              "target": "Package",
+              "version": "[3.7.9.4, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.11.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[116.0.5845.9600, )"
+            },
+            "SeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400-preview.23330.10\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
